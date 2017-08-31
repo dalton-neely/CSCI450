@@ -1,0 +1,5 @@
+﻿  src.cpp
+c:\users\dalton\dropbox\cmu\fall 2017\csci 450 compiler structure\utf8 decoder\utf8decoder\utf8decoder\src.cpp(25): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+c:\users\dalton\dropbox\cmu\fall 2017\csci 450 compiler structure\utf8 decoder\utf8decoder\utf8decoder\src.cpp(33): warning C4101: 'sumbits': unreferenced local variable
+  UTF8Decoder.vcxproj -> C:\Users\Dalton\Dropbox\CMU\Fall 2017\CSCI 450 Compiler Structure\UTF8 Decoder\UTF8Decoder\Debug\UTF8Decoder.exe
+  UTF8Decoder.vcxproj -> C:\Users\Dalton\Dropbox\CMU\Fall 2017\CSCI 450 Compiler Structure\UTF8 Decoder\UTF8Decoder\Debug\UTF8Decoder.pdb (Partial PDB)
